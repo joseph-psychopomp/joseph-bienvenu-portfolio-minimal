@@ -1,4 +1,4 @@
-### Type definitions saved at 2023-03-12T21:17:38.855Z ###
+### Type definitions saved at 2023-03-12T22:37:33.026Z ###
 
 enum RemoteFileFit {
   COVER
@@ -819,15 +819,10 @@ type ArticleMarkdown implements Node & Article @childOf(mimeTypes: [], types: ["
   readingTime: ReadingTimeStats
 }
 
-type MarkdownRemarkFrontmatter @derivedTypes {
+type MarkdownRemarkFrontmatter {
   imageSrc: File @fileByRelativePath
   imageAlt: String
   title: String
-  description: String
-  date: Date @dateformat
-  banner: MarkdownRemarkFrontmatterBanner
-  categories: [String]
-  keywords: [String]
   sectionId: String
 }
 
@@ -863,10 +858,4 @@ type ProjectsJson implements Node @childOf(types: ["File"]) @dontInfer {
 type ContentJson implements Node @childOf(types: ["File"]) @dontInfer {
   siteMetadata: SiteMetadata
   siteConfiguration: SiteConfiguration
-}
-
-type MarkdownRemarkFrontmatterBanner {
-  src: String
-  alt: String
-  caption: String
 }
