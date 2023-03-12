@@ -1,0 +1,78 @@
+{
+    "projects": [
+        {
+            "visible": true,
+            "category": "POETRY COLLECTION",
+            "title": "Atom Parlor",
+            "description": "❝Exuberant as a blizzard, individual as a snowflake, Joseph Bienvenu gives us this book with the generosity of yahoo and wail. In Atom Parlor's hooting forest is a beating heart, crying out for connection, vulnerable, human, demonstrative of an extraordinary associational speed, the imagination always in triumph, in celebration as well as sorrow, dire and slapstick, and, dare I say, fun.❞",
+            "tags": ["-Dean Young"],
+            "image": {
+                "src": "../../images/AtomParlor.png",
+                "alt": "Atom Parlor",
+                "linkTo": "https://www.amazon.com/Atom-Parlor-Joseph-Bienvenu/dp/193540265X"
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://www.amazon.com/Atom-Parlor-Joseph-Bienvenu/dp/193540265X"
+                }
+            ]
+        },
+                {
+            "visible": true,
+            "category": "TRANSLATION",
+            "title": "The Poems of Gaius Valerius Catullus",
+            "description":"❝This polished little book captures all the varied registers of the voice of the ancient Roman poet Catullus. Bienvenu responds directly and freshly to every nuance in every genre represented in the original text, from epigram, to lyric, to elegy and epyllion. It comes as as no surprise to me, though surely a delight to savor, that it has taken a New Orleans poet to truly lock eyebrows with the most passionate and genuine Latin poet of antiquity❞",
+            "tags": ["-Convulsive Editions"],
+            "image": {
+                "src": "../../images/Catullus.png",
+                "alt": "Catullus",
+                "linkTo": "https://www.lavenderink.org/site/shop/poems-of-gaius-valerius-catullus-the/?v=76cb0a18730b"
+            },
+            "links": [
+  {
+                    "type": "external",
+                    "url": "https://www.lavenderink.org/site/shop/poems-of-gaius-valerius-catullus-the/?v=76cb0a18730b"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "POETRY CHAPBOOK",
+            "title": "Cottonmouth Incarnates",
+            "description": "❝In Cottonmouth Incarnate Joseph Bienvenu pilots the visual poem into the unknown. The dazzling poems in this book elude trodden representations of everyday life and soar with lyrical emotion. Furthermore, these cosmic-geologic explosions reverberate in Bienvenu's typographic designs.❞",
+
+            "tags": ["-Convulsive Editions"],
+            "image": {
+                "src": "../../images/CottonmouthIncarnate.png",
+                "alt": "Cottonmouth Incarnate",
+                "linkTo": "http://www.convulsive-editions.org/p/titles-ordering.html"
+            },
+            "links": [
+  {
+                    "type": "external",
+                    "url": "http://www.convulsive-editions.org/p/titles-ordering.html"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "POETRY DRINKING GAME",
+            "title": "Cocktail Poemss",
+            "description":"Cocktail Poems is a party game for people who like books and like to drink. Each round a player reads a line of poetry from a card, and the next player tries to repeat the verse from memory. If players can't repeat a line, they drink.",
+            "tags": [],
+            "image": {
+                "src": "../../images/COCKTAIL.png",
+                "alt": "Cocktail Poems",
+                "linkTo": ""
+            },
+            "links": [
+            ]
+        }
+    ],
+    "button": {
+        "visible": false,
+        "label": "",
+        "url": ""
+    }
+}

@@ -1,0 +1,21 @@
+import React from 'react';
+import * as classes from './style.module.css';
+
+    return (
+        <div className={classes.Logo} aria-roledescription="logo">
+            const IconLogo = () => (
+  <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 218 218">
+    <title>Logo</title>
+      <g>
+        <path
+         d="M175.54,0H42.46C19.01,0,0,19.01,0,42.46V175.54c0,23.45,19.01,42.46,42.46,42.46H175.54c23.45,0,42.46-19.01,42.46-42.46V42.46c0-23.45-19.01-42.46-42.46-42.46ZM74.38,158.91c-5.6,2.45-10.86,5.4-15.32,9.54V41.37h29.51v87.67c0,15.18-2.04,23.53-14.19,29.87Zm26.9,17.71h-18.59c14.43-6.98,25.97-18.21,25.97-46.68V41.84c27.82,2.18,44.41,12.25,44.41,34.13,0,17-12.31,26.19-24.82,29.12,15.25,2.93,30.69,10.16,30.69,32.25,0,30.3-24.43,39.29-57.66,39.29Z"
+          fill="var(--primary-color)"
+        />
+    </g>
+  </svg>
+);
+
+export default IconLogo;
+        </div>
+    );
+}

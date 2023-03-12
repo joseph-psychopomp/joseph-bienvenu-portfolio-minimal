@@ -1,0 +1,71 @@
+{
+    "interests": [
+        {
+            "label": "Otakar Brezina Translation",
+            "image": {
+                "src": "../../images/medium.png",
+                "alt": "http://www.ezratranslation.com/wp-content/uploads/2021/06/Volume-12-number-3.pdf"
+            }
+        },
+        {
+            "label": "Content via Markdown",
+                        "url": "http://www.ezratranslation.com/wp-content/uploads/2021/06/Volume-12-number-3.pdf",
+            "image": {
+                "src": "../../images/notebook.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Responsive Design",
+            "url": "http://www.ezratranslation.com/wp-content/uploads/2021/06/Volume-12-number-3.pdf",
+            "image": {
+                "src": "../../images/nail-polish.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Medium Integration",
+            "url": "http://www.ezratranslation.com/wp-content/uploads/2021/06/Volume-12-number-3.pdf",
+            "image": {
+                "src": "../../images/medium.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Animations",
+            "image": {
+                "src": "../../images/gem-stone.png",
+                "alt": "http://www.ezratranslation.com/wp-content/uploads/2021/06/Volume-12-number-3.pdf"
+            }
+        },
+        {
+            "label": "PWA (Offline Support)",
+            "url": "http://www.ezratranslation.com/wp-content/uploads/2021/06/Volume-12-number-3.pdf",
+            "image": {
+                "src": "../../images/mobile-phone.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Modern Tech-Stack",
+            "url": "http://www.ezratranslation.com/wp-content/uploads/2021/06/Volume-12-number-3.pdf",
+            "image": {
+                "src": "../../images/gatsby.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Blazing Fast",
+            "url": "http://www.ezratranslation.com/wp-content/uploads/2021/06/Volume-12-number-3.pdf",
+            "image": {
+                "src": "../../images/high-voltage.png",
+                "alt": ""
+            }
+        }
+    ],
+    "button": {
+        "visible": true,
+        "label": "+ Load More",
+        "initiallyShownInterests": 5
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "siteMetadata": {
+        "language": "en",
+        "siteUrl": "josephbienvenu.com/",
+        "thumbnail": "../content/images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "title": "Joseph Bienvenu",
+        "titleTemplate": "%s · Writer, Educator, Graphic Designer",
+        "description": "Joseph Bienvenu is a New Orleans writer, educator, and graphic designer.",
+        "author": "Joseph Bienvenu",
+        "avatar": "../content/images/joseph.png",
+        "bio": "Joseph Bienvenu is a New Orleans writer, educator, and graphic designer.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/joseph-bienvenu-486951a",
+            "github": "https://github.com/joseph-psychopomp",
+            "twitter": "https://twitter.com/joseph_bienvenu",
+            "mail": "mailto:me@josephbienvenu.com"
+        }
+    },
+    "siteConfiguration": {
+        "logo": { "logo": { "image": {
+        "src": "../img/logo/.png"}} },
+        "navigation": {
+             "header": [
+                { "label": "About", "url": "/#about" },
+                { "label": "Portfolio", "url": "/#portfolio" },
+                { "label": "Writing", "url": "/#writing" }
+            ],
+            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume.pdf" },
+            "footer": [
+                { "label": "Back to Top", "url": "#hero" }
+            ]
+        },
+        "featureToggles": {
+            "useDarkModeAsDefault": false,
+            "useDarkModeBasedOnUsersPreference": true,
+            "useCookieBar": false
+        }
+    }
+}

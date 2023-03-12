@@ -1,0 +1,117 @@
+body, .style-module--Logo--c7351 {
+    font-family: 'Fira Sans', Arial, sans-serif;
+}
+
+.tabs {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tabs button {
+    background-color: lightgray;
+    border: none;
+    color: #888888;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 25px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: all 0.5s ease-out;
+}
+
+.tabs button:hover {
+    color: var(--background-color);
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.tabs button:disabled {
+    background: linear-gradient(245.39deg, #f08b48 -35.14%, #e52563 143.06%);
+    color: var(--background-color);
+}
+
+.content {
+    padding: 50px 80px;
+    text-align: justify;
+}
+
+#portdiv {
+    width: 90%;
+    margin: 0 auto;
+}
+
+svg#logo {
+    width: 6rem;
+}
+
+svg#logoHead {
+    width: 5rem;
+    padding: 0.5rem;
+}
+
+div#PoemWrapper{
+    width: 100%;
+    height: 100%;
+    max-width: var(--page-width);
+    margin: 0 auto 8rem auto;
+    padding: var(--page-padding);
+}
+
+.ReactGridGallery_custom-overlay {
+pointer-events: auto;
+}
+
+.custom-overlay__caption {
+  background-color: rgba(0, 0, 0, 0.8);
+  max-height: 240px;
+  pointer-events: auto;
+  overflow: hidden;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  padding: 2px;
+  font-size: 90%;
+}
+
+.custom-overlay__tag {
+  word-wrap: break-word;
+  display: inline-block;
+  background-color: white;
+  height: auto;
+  font-size: 75%;
+  font-weight: 600;
+  line-height: 1;
+  padding: .2em .6em .3em;
+  border-radius: .25em;
+  color: black;
+  vertical-align: baseline;
+  margin: 2px;
+}
+
+.ReactGridGallery_tile_tagItem {
+  color: #e52563;
+}
+
+
+@media only screen and (max-width: 960px) {
+
+    .container {
+        width: 100%;
+    }
+
+    .content {
+        padding: 50px;
+    }
+
+.tabs {
+  flex-wrap:wrap;
+}
+
+    .tabs button {
+    width: 50%;
+    padding: 10px;
+
+}
+}
+
+
